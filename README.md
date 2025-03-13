@@ -76,7 +76,7 @@ java -jar target/apache-log-analyzer-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 ## Sample Output
-The program will print results like:
+The program final output is:
 ```
 Countries:
 US - 64.12%
