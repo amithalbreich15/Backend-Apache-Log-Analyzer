@@ -1,0 +1,100 @@
+Countries:
+United States - 85.84%
+Brazil - 2.85%
+Kazakhstan - 1.44%
+Indonesia - 0.92%
+France - 0.79%
+Japan - 0.72%
+China - 0.72%
+The Netherlands - 0.69%
+Israel - 0.64%
+United Kingdom - 0.59%
+Colombia - 0.51%
+Singapore - 0.48%
+Peru - 0.45%
+Germany - 0.34%
+Ireland - 0.29%
+Ecuador - 0.24%
+Chile - 0.20%
+Argentina - 0.17%
+Poland - 0.16%
+India - 0.15%
+Bulgaria - 0.15%
+Spain - 0.15%
+Thailand - 0.14%
+Cambodia - 0.14%
+Italy - 0.13%
+Canada - 0.13%
+Mexico - 0.12%
+Australia - 0.11%
+Serbia - 0.10%
+Norway - 0.06%
+Finland - 0.05%
+Palestine - 0.04%
+Iraq - 0.04%
+Malaysia - 0.04%
+United Arab Emirates - 0.03%
+Myanmar - 0.03%
+Greece - 0.03%
+Vietnam - 0.03%
+Switzerland - 0.03%
+Paraguay - 0.03%
+Bolivia - 0.03%
+Nigeria - 0.03%
+South Africa - 0.02%
+Taiwan - 0.02%
+Egypt - 0.02%
+Philippines - 0.02%
+Unknown - 0.01%
+Panama - 0.01%
+Hong Kong - 0.01%
+Ukraine - 0.01%
+Honduras - 0.01%
+Iran - 0.00%
+T?rkiye - 0.00%
+Iceland - 0.00%
+Latvia - 0.00%
+New Zealand - 0.00%
+Russia - 0.00%
+Kenya - 0.00%
+Denmark - 0.00%
+
+Operating systems:
+Windows - 89.40%
+Unknown - 3.52%
+Mac OS X - 2.75%
+iOS - 1.69%
+Android - 1.08%
+Linux - 1.00%
+Sony Playstation - 0.13%
+Unknown mobile - 0.12%
+Chrome OS - 0.09%
+macOS - 0.07%
+SunOS - 0.05%
+Android (Google TV) - 0.04%
+Symbian OS - 0.02%
+BlackBerryOS - 0.02%
+Nintendo Wii - 0.02%
+BlackBerry Tablet OS - 0.01%
+Unknown tablet - 0.00%
+
+Browsers:
+IE - 79.39%
+Firefox - 6.76%
+Chrome - 4.63%
+Safari - 4.26%
+Bot - 1.49%
+Unknown - 1.02%
+Mozilla - 0.88%
+Opera - 0.38%
+Apple WebKit - 0.38%
+Opera 10 - 0.27%
+Opera 11 - 0.19%
+Opera Mini - 0.15%
+Opera 9 - 0.06%
+Opera 12 - 0.06%
+CFNetwork - 0.06%
+NetFront - 0.02%
+Camino 2 - 0.00%
+Lynx - 0.00%
+Flock - 0.00%

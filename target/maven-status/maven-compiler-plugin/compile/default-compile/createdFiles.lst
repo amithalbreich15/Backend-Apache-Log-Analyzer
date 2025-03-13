@@ -1,0 +1,8 @@
+com\loganalyzer\CountryExtractor.class
+com\loganalyzer\MetricExtractor.class
+com\loganalyzer\LogEntryParser.class
+com\loganalyzer\LogFileDownloader.class
+com\loganalyzer\OperatingSystemExtractor.class
+com\loganalyzer\LogProcessor.class
+com\loganalyzer\BrowserExtractor.class
+com\loganalyzer\LogAnalyzer.class
