@@ -39,7 +39,7 @@ apache-log-analyzer/
 │   │   └── resources/
 │   │       ├── GeoLite2-Country.mmdb # GeoIP database
 │   │       └── all.log               # Sample log file
-│   └── test/                         # Test classes (if any)
+│   |── test/                         # Test classes (if any)
 │   |   └── java/
     └── all_stats.txt                     # File that includes results
 ```
