@@ -76,7 +76,7 @@ java -jar target/apache-log-analyzer-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
 ## Sample Output
-The program final output is:
+The program will print results like:
 ```
 Countries:
 US - 64.12%
@@ -102,7 +102,7 @@ IE - 24.11%
 
 
 ## Final Results
-The program will print results like:
+The program final output is:
 ```
 Countries:
 United States - 85.84%
